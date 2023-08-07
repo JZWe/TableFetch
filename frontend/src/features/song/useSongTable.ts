@@ -5,7 +5,12 @@ import {
   getCoreRowModel,
   useReactTable,
 } from '@tanstack/react-table';
-import { Song, OriginalData, MappedSongDifficulties } from './types';
+import {
+  Song,
+  OriginalData,
+  MappedSongDifficulties,
+  OriginalDifficultyName,
+} from './types';
 
 const defaultColumns: ColumnDef<Song>[] = [
   {
