@@ -1,0 +1,9071 @@
+{
+    "\u84bc\u3044\u885d\u52d5 (for EXTREME)": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "\u84bc\u304c\u6d88\u3048\u308b\u3068\u304d": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u671d\u8272\u306e\u7d19\u98db\u884c\u6a5f": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30a2\u30e6\u30df\u2606\u30de\u30b8\u30ab\u30eb\u30b7\u30e7\u30fc\u30bf\u30a4\u30e0": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u963f\u6ce2\u304a\u3069\u308a -Awaodori- \u3084\u3063\u3071": {
+        "STANDARD": {
+            "level": "12"
+        }
+    },
+    "\u30a8\u30a4\u30ea\u30a2\u30f3\u30a8\u30a4\u30ea\u30a2\u30f3": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u5973\u8a00\u8449\u306e\u6d88\u5931": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u9769\u547d": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u30ab\u30b2\u30ed\u30a6": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "\u304b\u3089\u3075\u308b\u3071\u3059\u3066\u308b": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u30ad\u30b1\u30f3\u306a\u679c\u5b9f": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u6fc0\u30a2\u30c4\u2606\u30de\u30b8\u30e4\u30d0\u2606\u30c1\u30a2\u30ac\u30fc\u30eb(\u8e0a": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "\u5e7b\u60f3\u7cfb\u4e16\u754c\u4fee\u5fa9\u5c11\u5973": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u604b\u6642\u96e8": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u604b\u306e\u30d1\u30ba\u30eb\u30de\u30b8\u30c3\u30af": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u7d05\u7114": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "\u3053\u3053\u304b\u3089\u3088\u308d\u3057\u304f\u5927\u4f5c\u6226143": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u3053\u306e\u9752\u7a7a\u306e\u4e0b\u3067": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u6700": {
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "\u30b5\u30ca\u30fb\u30e2\u30ec\u30c3\u30c6\u30fb\u30cd\u30fb\u30a8\u30f3\u30c6": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u3055\u3088\u306a\u3089\u30c8\u30ea\u30c3\u30d7 \uff5e\u590f\u967d EDM edition\uff5e": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u30b5\u30e8\u30ca\u30e9\u30fb\u30d8\u30f4\u30f3": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u81f3\u4e0a\u306e\u30e9\u30c8\u30a5\u30fc\u30ea\u30a2": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u96eb": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u3057\u3083\u304b\u308a\u304d\u30ea\u30ec\u30fc\u30b7\u30e7\u30f3": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u30b7\u30e5\u30ec\u30fc\u30c7\u30a3\u30f3\u30ac\u30fc\u306e\u732b": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "\u30b9\u30a4\u30fc\u30c4\u306f\u3068\u307e\u3089\u306a\u3044\u266a": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30b9\u30ab\u30a4\u30af\u30e9\u30c3\u30c9\u306e\u89b3\u6e2c\u8005": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u305a\u3063\u3068\u307f\u3064\u3081\u3066\u3044\u3066 (Ryu\u2606Remix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "\u661f\u5ea7\u304c\u604b\u3057\u305f\u77ac\u9593\u3092\u3002": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u6674\u5929Bon Voyage": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u5343\u5e74\u30ce\u7406": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u95d8\u3048\uff01\u30c0\u30c0\u30f3\u30c0\u30fc\u30f3V": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u3061\u304f\u308f\u30d1\u30d5\u30a7\u3060\u3088\u2606CKP": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8\u30b9\u30de\u30a4\u30eb": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u30c7\u30c3\u30c9\u30dc\u30f2\u30ebde\u30db\u30fc\u30e0\u30e9\u30f3": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30c6\u30ec\u30ad\u30e3\u30b9\u30bf\u30fc\u30d3\u30fc\u30dc\u30fc\u30a4": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u6771\u4eac\u795e\u8a71": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "\u3069\u304d\u30c9\u30ad \u30d0\u30ec\u30f3\u30bf\u30a4\u30f3": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u30c9\u30ad\u30c9\u30ad\u2606\u6d41\u661f\u30c8\u30e9\u30c3\u30d7\u30ac\u30fc\u30eb!!": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u2020\u6e1a\u306e\u5c0f\u60aa\u9b54\u30e9\u30f4\u30ea\u30a3\uff5e\u30ec\u30a4\u30c7\u30a3\u30aa\u2020": {
+        "CHALLENGE": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "\u306a\u3060\u3081\u30b9\u304b\u3057 Negotiation": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "\u71b1\u60c5\u306e\u30b5\u30d1\u30c7\u30a2\u30fc\u30c9": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30ce\u30fc\u30d7\u30e9\u30f3\u30fb\u30c7\u30a4\u30ba": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "\u30cf\u30c3\u30d4\u30fc\u30b7\u30f3\u30bb\u30b5\u30a4\u30b6": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u82b1\u306f\u6298\u308a\u305f\u3057\u68a2\u306f\u9ad8\u3057": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u3073": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "\u30d5\u30fc\u30fb\u30d5\u30ed\u30fc\u30c4": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u4e0d\u6c88\u8266CANDY": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u30d9\u30d3\u30fc\u30b9\u30c6\u30c3\u30d7": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u661f\u5c51\u306e\u30ad\u30ed\u30af": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u9b54\u7406\u6c99\u306f\u5927\u5909\u306a\u3082\u306e\u3092\u76d7\u3093\u3067\u3044\u304d\u307e\u3057\u305f": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u672a\u5b8c\u6210\u30ce\u84b8\u6c23\u9a45\u52d5\u4e59\u5973 (DDR Edition)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "\u3081\u3046\u3081\u3046\u307a\u3063\u305f\u3093\u305f\u3093\uff01\uff01": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "\u6ec5\u4ea1\u5929\u4f7f \u2020 \u306b\u3053\u304d\u3085\u3063\u3074\u3093": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u91ce\u7403\u306e\u904a\u3073\u65b9 \u305d\u3057\u3066\u305d\u306e\u6b74\u53f2 \uff5e\u6c7a\u5b9a\u7248\uff5e": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30ed\u30ad(w/\u7dd2\u65b9\u6075\u7f8e)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u516d\u5146\u5e74\u3068\u4e00\u591c\u7269\u8a9e": {
+        "STANDARD": {
+            "level": "9"
+        }
+    },
+    "\u79c1\u3092\u30c7\u30a3\u30b9\u30b3\u306b\u9023\u308c\u3066\u3063\u3066 TOKYO": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "AA": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "A Brighter Day": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "Ace out": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "actualization of self (weaponized)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "AETHER": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "AFRONOVA": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "AFRONOVA PRIMEVAL": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Aftermath": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "aftershock!!": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "A Geisha's Dream": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "AI": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Air Heroes": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "ALBIDA": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "ALL MY HEART -\u3053\u306e\u604b\u306b\u3001\u308f\u305f\u3057\u306e\u5168\u3066\u3092\u8ced\u3051\u308b-": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Alone": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "ALPACORE": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "AM-3P -303 BASS MIX-": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "ANTI ANTHEM": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Aria": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "A Stupid Barber": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Bad Routine": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Bang Pad(Werk Mix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "bass 2 bass": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Be a Hero!": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Beautiful Dream": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "BE LOVIN": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Black Emperor": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Blew My Mind": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "BLSTR": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "BRILLIANT 2U (Orchestra Groove)": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "Broken": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "BUTTERFLY (20th Anniversary Mix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "B4U (The Acolyte mix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "CAN'T STOP FALLIN' IN LOVE (SPEED MIX)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "CARTOON HEROES (20th Anniversary Mix)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "CENTAUR": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "CG Project": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Chance and Dice": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Children of the Beat": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "CHOCOLATE PHILOSOPHY": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "Clarity": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Colors (for EXTREME)": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Condor": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "Cosmic Hurricane": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "Cosy Catastrophe": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Crazy Control": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "CUTIE CHASER (MORNING MIX)": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Dance Celebration (System 7 Remix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Dance Floor": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Dazzlin' Darlin": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "DEADLOCK -Out Of Reach-": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Destination": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "DeStRuCtIvE FoRcE": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "DIGITAL LUV": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Dispersion Star": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "DOWNER & UPPER": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Dragon Blade": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Dreamin'": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "DUAL STRIKER": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "DXY!": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "EGOISM 440": {
+        "BEGINNER": {
+            "level": "9"
+        },
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "18"
+        },
+        "CHALLENGE": {
+            "level": "19"
+        }
+    },
+    "Electro Tuned (the SubS Mix)": {
+        "STANDARD": {
+            "level": "9"
+        }
+    },
+    "ENDLESS": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "ENDYMION": {
+        "BEGINNER": {
+            "level": "9"
+        },
+        "LIGHT": {
+            "level": "13"
+        },
+        "STANDARD": {
+            "level": "15"
+        },
+        "HEAVY": {
+            "level": "18"
+        },
+        "CHALLENGE": {
+            "level": "19"
+        }
+    },
+    "Environ [De-SYNC] (feat. lythe)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "esrev:eR": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Eternal Summer": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Every Day, Every Night (NM STYLE)": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Everything I Need": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Fascination -eternal love mix-": {
+        "BEGINNER": {
+            "level": "9"
+        },
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Fever": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Fleur": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Find You Again": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Flight of the Phoenix": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Flow": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Flow (True Style)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Fly away -mix del matador-": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Frozen Ray (for EXTREME)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "FUJIMORI -\u796d- FESTIVAL": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "GERBERA": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Get Back Up!": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Get Your Wish": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "glacia": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Glitter Flatter Scatter": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Good Looking": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Good Sound United": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "GRADUATION \uff5e\u305d\u308c\u305e\u308c\u306e\u660e\u65e5\uff5e": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Grip & Break down !!": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Ha\u30fblle\u30fblu\u30fbjah": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "HANDS UP IN THE AIR": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Healing-D-Vision": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Help me, ERINNNNNN!!": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "heron": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "HIGHER": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Holic": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Horatio": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "HYPERDRIVE": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "I'm gonna get you!": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "in love wit you": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "INSERTiON": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "INSIDE YOUR HEART": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "In The Air": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "In The Breeze": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "IN THE ZONE": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "I WANT YOUR LOVE (Darwin remix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Jewelry days": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "KEEP ON MOVIN'": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "KEEP ON MOVIN' (Y&Co. DJ BOSS remix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Kilonova": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Lachryma\u300aRe:Queen\u2019M\u300b": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "18"
+        },
+        "CHALLENGE": {
+            "level": "19"
+        }
+    },
+    "La libertad": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "L'amour et la libert\u00e9 (DDR Ver.)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "LEADING CYBER": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Let's Get Away": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "LONG TRAIN RUNNIN' (20th Anniversary Mix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Lose Your Sense": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "LOVE IS ORANGE": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "11"
+        }
+    },
+    "LOVE \u2665 SHINE": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "LOVE THIS FEELIN'": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Love You More": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "MAKE A JAM!": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "MAKE IT BETTER": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "MAXIMIZER": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "MAX 300": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "MAX 360": {
+        "BEGINNER": {
+            "level": "9"
+        },
+        "LIGHT": {
+            "level": "12"
+        },
+        "STANDARD": {
+            "level": "15"
+        },
+        "HEAVY": {
+            "level": "18"
+        },
+        "CHALLENGE": {
+            "level": "19"
+        }
+    },
+    "Megalara Garuda": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "16"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "MEGALOVANIA": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Mess With My Emotions": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "MIDNIGHT SPECIAL": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Mind Parasite": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Miracle Moon (L.E.D.LIGHT STYLE MIX)": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "MITO\u308c\u3066\uff01\u3044\u3070\u3089\u304d\u3063\u3057\u3085\u3060\uff5e\u308a\u3093": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Monkey Business": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "My Only Shining Star": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "MY SUMMER LOVE": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "neko*neko": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "Neutrino": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Never See You Again": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "New Beginning": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "New Century": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "New Gravity": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "New York EVOLVED (Type A)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "New York EVOLVED (Type B)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "New York EVOLVED (Type C)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "No.13": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Open Your Eyes": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "ORCA": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "ORION.78 (civilization mix)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "osaka EVOLVED -\u6bce\u5ea6\u3001\u304a\u304a\u304d\u306b\uff01- (TYPE1)": {
+        "BEGINNER": {
+            "level": "9"
+        },
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "osaka EVOLVED -\u6bce\u5ea6\u3001\u304a\u304a\u304d\u306b\uff01- (TYPE2)": {
+        "BEGINNER": {
+            "level": "9"
+        },
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "osaka EVOLVED -\u6bce\u5ea6\u3001\u304a\u304a\u304d\u306b\uff01- (TYPE3)": {
+        "BEGINNER": {
+            "level": "9"
+        },
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "#OurMemories": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "PANIC HOLIC": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "PARADISE": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "PARANOiA": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "PARANOIA EVOLUTION": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "10"
+        }
+    },
+    "PARANOiA KCET ~clean mix~": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "PARANOiA (kskst mix)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "PARANOiA MAX ~DIRTY MIX~": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "PARANOIA survivor": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "11"
+        }
+    },
+    "PARANOIA survivor MAX": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "PARTY ALL NIGHT(DJ KEN-BOW MIX)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Play Hard": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Pluto": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "Polovtsian Dances And Chorus": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Poppin' Soda": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Poseidon": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Poseidon(kors k mix)": {
+        "STANDARD": {
+            "level": "9"
+        }
+    },
+    "POSSESSION(EDP Live Mix)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "PRANA+REVOLUTIONARY ADDICT (U1 DJ Mix)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Programmed Universe": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "PUT YOUR FAITH IN ME": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "PUT YOUR FAITH IN ME (Jazzy Groove)": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "11"
+        }
+    },
+    "PUT YOUR FAITH IN ME ~SATURDAY NIGHT MIX~": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "rain of sorrow": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Rampage Hero": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Raspberry\u2665Heart (English version)": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "REBORN MAGIC": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Remain": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Rhythms Inside": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Right on time (Ryu\u2606Remix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "SABER WING (satellite silhouette remix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "Saturn": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "SAYONARA\u2606\u30c7\u30a3\u30b9\u30b3\u30e9\u30a4\u30c8": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Scarlet Moon": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Second Heaven": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "second spring storm": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "SEDUCTION": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "SEDUCTION (Vocal Remix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Settin' the Scene": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Shine": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "Shout It Out": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "SigSig": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Silent Hill": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "SKY HIGH (20th Anniversary Mix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Sky Is The Limit": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Slip Out": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "snow prism": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "SODA GALAXY": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "SO IN LOVE": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "sola": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "someday...": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "SOUL CRASH": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "SP-TRIP MACHINE ~JUNGLE MIX~": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Squeeze": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Star Gate Heaven (FUTURE LOVE Mix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Starry Sky": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "STARS\u2606\u2606\u2606 (Re-tuned by H\u039bL) -DDR EDITION-": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "10"
+        }
+    },
+    "STARS\u2606\u2606\u2606 (2nd NAOKI's style)": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Star Trail": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "STAY (Joey Riot remix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "STAY (Organic house Version)": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "STAY GOLD": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Stay 4 Ever": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Step This Way": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "stoic (EXTREME version)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "STULTI": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Summer Fairytale": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "SUPER HERO": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Surface": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "SURVIVAL AT THE END OF THE UNIVERSE": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Sweet Rain": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Sweet Sweet \u2665 Magic": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Sword of Vengeance": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "sync (EXTREME version)": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "Take A Chance": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Take A Step Forward": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "Taking It To The Sky (PLUS step)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "TECH-NOID": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Tell me what to do": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "Thank You Merry Christmas": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "The Heavens Above": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "The History of the Future": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "The Island Song": {
+        "HEAVY": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "The Night Away(MK Remix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Theory of Eternity": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "CHALLENGE": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "THE SHINING POLARIS": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "The World Ends Now": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "think ya better D": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "THIS IS MY LAST RESORT": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Till the lonely's gone": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "TIME": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "TimeHollow": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "Together Going My Way": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "tokyoEVOLVED (TYPE1)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "tokyoEVOLVED (TYPE2)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "tokyoEVOLVED (TYPE3)": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Towards the TOWER": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "toy boxer": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Trigger": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "TRIP MACHINE": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "TRIP MACHINE CLIMAX": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "TRIP MACHINE EVOLUTION": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "TRIP MACHINE ~luv mix~": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Triple Cross": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "TRUE\u2665LOVE (Clubstar's True Club Mix)": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "TSUGARU": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Twin memories W": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Until the End": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Uranus": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Valkyrie dimension": {
+        "BEGINNER": {
+            "level": "9"
+        },
+        "LIGHT": {
+            "level": "13"
+        },
+        "STANDARD": {
+            "level": "15"
+        },
+        "HEAVY": {
+            "level": "18"
+        },
+        "CHALLENGE": {
+            "level": "19"
+        }
+    },
+    "VALLIS-NERIA": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "VANITY ANGEL": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Votum stellarum -forest \uff0325 DDR RMX-": {
+        "STANDARD": {
+            "level": "9"
+        }
+    },
+    "voltississimo": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "We're so Happy": {
+        "LIGHT": {
+            "level": "9"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Why not": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "WH1TE RO5E": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "WILD RUSH (FROM NONSTOP MEGAMIX)": {
+        "CHALLENGE": {
+            "level": "9"
+        }
+    },
+    "WILD SIDE": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Yeah! Yeah!": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "1998": {
+        "HEAVY": {
+            "level": "9"
+        }
+    },
+    "321STARS": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "50th Memorial Songs -\u4e8c\u4eba\u306e\u6642 \uff5eunder the cherry blossoms\uff5e-": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "50th Memorial Songs -Flagship medley-": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "50th Memorial Songs -The BEMANI History-": {
+        "STANDARD": {
+            "level": "9"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30a2\u30c9\u30ec\u30ca\u30ea\u30f3": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u5929\u30ce\u5f31": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30a2\u30ea\u30b9\u30b5\u30a4\u30c9\u30fb\u30ad\u30e3\u30b9\u30ea\u30f3\u30b0": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "\u92f3\u9244\u306e\u6abb": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30a4\u30ce\u30bb\u30f3\u30c8\u30d0\u30a4\u30d6\u30eb": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "\u5fa1\u4f3d\u567a\u306b\u5e55\u5207\u308c\u3092": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u4e59\u5973\u7e5a\u4e71 \u821e\u3044\u54b2\u304d\u8a87\u308c": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u9769\u547d\u30d1\u30c3\u30b7\u30e7\u30cd\u30a4\u30c8": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u5171\u72af\u30d8\u30f4\u30f3\u30ba\u30b3\u30fc\u30c9": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u5f7c\u65b9\u306e\u30ea\u30d5\u30ec\u30b7\u30a2": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u30af\u30ea\u30e0\u30be\u30f3\u30b2\u30a4\u30c8": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u9ed2\u9aea\u4e71\u308c\u3057\u4fee\u7f85\u3068\u306a\u308a\u3066\uff5e\u51db edition\uff5e": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u541b\u6c0f\u5371\u3046\u304f\u3082\u8fd1\u3046\u3088\u308c": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u6708\u5149\u8776": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "\u3053\u306e\u5b50\u306e\u4e03\u3064\u306e\u304a\u795d\u3044\u306b": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u9006\u3055\u307e\u2665\u30b7\u30f3\u30c7\u30ec\u30e9\u30d1\u30ec\u30fc\u30c9": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u5e78\u305b\u306b\u306a\u308c\u308b\u96a0\u3057\u30b3\u30de\u30f3\u30c9\u304c\u3042\u308b\u3089\u3057\u3044": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u601d\u60f3\u72af": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u5341\u4e8c\u661f\u5ea7\u306e\u8056\u57df": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u6625\u98a8\u30d6\u30ed\u30fc\u30a4\u30f3\u30a6\u30a3\u30f3\u30c9": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u65b0\u86c7\u59eb": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "\u9685\u7530\u5ddd\u590f\u604b\u6b4c": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "\u4e16\u754c\u306e\u679c\u3066\u306b\u7d04\u675f\u306e\u51f1\u6b4c\u3092 -DDR Extended Megamix-": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "\u30bb\u30c4\u30ca\u30c8\u30ea\u30c3\u30d7": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u5275\u4e16\u30ce\u30fc\u30c8": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u5b87\u5b99(\u30bd\u30e9)\u3078\u306e\u7247\u9053\u5207\u7b26": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30c1\u30ab\u30e9": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "\u5730\u65b9\u5275\u751f\u2606\u30c1\u30af\u30ef\u30af\u30c6\u30a3\u30af\u30b9": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u3061\u3085\uff5e\u3044\u3093\u2606\u30d0\u30cb\u30fc": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "\u30c1\u30eb\u30ce\u306e\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u3055\u3093\u3059\u3046\u6559\u5ba4": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "\u30c1\u30eb\u30ce\u306e\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u3055\u3093\u3059\u3046\u6559\u5ba4(EDM REMIX)": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30c9\u30fc\u30d1\u30df\u30f3": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "\u590f\u8272DIARY -DDR mix-": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u521d\u97f3\u30df\u30af\u306e\u6d88\u5931": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "\u306f\u306a\u307e\u308b\u3074\u3063\u3074\u306f\u3088\u3044\u3053\u3060\u3051": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u30d1\u2192\u30d4\u2192\u30d7\u2192Yeah!": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u6625\u3092\u544a\u3052\u308b": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "\u53db\u9006\u306e\u30c7\u30a3\u30b9\u30d1\u30ec\u30fc\u30c8": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30d3\u30d3\u30c3\u30c8\u30b9\u30c8\u30ea\u30fc\u30e0": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u5411\u65e5\u8475\u30b5\u30f3\u30bb\u30c3\u30c8": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30eb \u30ec\u30b7\u30fc\u30c8": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u98a8\u9234\u82b1\u706b": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "\u30d7\u30ec\u30a4\u30f3\u30a8\u30a4\u30b8\u30a2 -PHQ remix-": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30d9\u30a3\u30b9\u30c9\u30ed\u30c3\u30d7\u30fb\u30d5\u30ea\u30fc\u30af\u30b9": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u307b\u3057\u306e\u3064\u304f\u308a\u304b\u305f": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u30dd\u30c3\u30d4\u30f3\u30ad\u30e3\u30f3\u30c7\u30a3\u2606\u30d5\u30a3\u30fc\u30d0\u30fc\uff01": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u30db\u30e1\u732b\u2606\u30bb\u30f3\u30bb\u30fc\u30b7\u30e7\u30f3": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30de\u30a4\u30f3\u30c9\uff65\u30b2\u30fc\u30e0": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u672a\u6765\uff08\u30c0\uff09FUTURE": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u30df\u30e9\u30a4\u30d7\u30ea\u30ba\u30e0": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "\u7f8a\u76ae\u7d19\u306e\u4e0a\u306e\u9280\u6cb3": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u30e9\u30ad\u30e9\u30ad": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30e9\u30af\u30ac\u30ad\u30b9\u30c8": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "\u30e9\u30d6\u30ad\u30e9\u2606\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u30ea\u30b9\u30da\u30af\u98a8\u795e": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u91cf\u5b50\u306e\u6d77\u306e\u30ea\u30f3\u30c8\u30f4\u30eb\u30e0": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "\u51db\u3068\u3057\u3066\u54b2\u304f\u82b1\u306e\u5982\u304f": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "\u604b\u611b\u89b3\u6e2c": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0\u30b2\u30fc\u30e0": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u7089\u5fc3\u878d\u89e3": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u30ed\u30b9\u30c8\u30ef\u30f3\u306e\u53f7\u54ed": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "\u30ed\u30f3\u30ed\u30f3\u3078 \u30e9\u30a4\u30e9\u30a4\u30e9\u30a4!": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Abyss": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Across the nightmare": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Adularia": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "AFRONOVA (FROM NONSTOP MEGAMIX)": {
+        "CHALLENGE": {
+            "level": "10"
+        }
+    },
+    "air": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "All My Love": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Amalgamation": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "AM-3P (AM EAST mix)": {
+        "CHALLENGE": {
+            "level": "10"
+        }
+    },
+    "Anthurium": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "A thing called LOVE": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Avenger": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "AWAKE": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "Awakening Wings": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Back In Your Arms": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Baile Le Samba": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "BALLAD THE FEATHERS": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Beautiful Inside (Cube::Hard Mix)": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "BITTER CHOCOLATE STRIKER": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Bombay Bomb": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "BONE BORN": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Boss Rush": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "BREAKING THE FUTURE": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "19"
+        }
+    },
+    "BRIDAL FESTIVAL !!!": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "BRILLIANT 2U": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "10"
+        }
+    },
+    "BRILLIANT 2U(K.O.G G3 MIX)": {
+        "CHALLENGE": {
+            "level": "10"
+        }
+    },
+    "BURNIN' THE FLOOR": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "BURNIN' THE FLOOR (BLUE FIRE mix)": {
+        "CHALLENGE": {
+            "level": "10"
+        }
+    },
+    "B4U": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "B4U (B4 ZA BEAT MIX)": {
+        "CHALLENGE": {
+            "level": "10"
+        }
+    },
+    "Can Be Real": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "CANDY\u2661 (Heart) ": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "CANDY (UFO mix)": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Catch Our Fire!": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Chronos (walk with you remix)": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Come Back to Me (Feel It)": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "CONNECT-": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Crazy Hot": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Crazy Shuffle": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "CROSS": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Curry Up": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "CURUS": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "CUTIE CHASER": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Cytokinesis": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Daily Lunch Special": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "DANCE ALL NIGHT (DDR EDITION)": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Dance Phenomena": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Dancer in the flare": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "dazzle": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "DEAD END": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Dead Heat": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "DESTINY": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Diamond Dust": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Din Don Dan": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "Don't Stop! ~AMD 2nd MIX~": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Do The Evolution": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Draw the Savage": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "DREAMING-ING!!": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "DROP OUT": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "DROP THE BOMB": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "DROP THE BOMB (SyS.F. Mix)": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Drop The Bounce": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Dummy": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "DYNAMITE RAVE": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "Easy Peasy": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "ECSTASY": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Electric Dance System Music": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Electrified": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "escape": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Evans": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Far east nightbird": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "F4SH10N": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Feidie": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Find The Way": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Flourish": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "FLOWER": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "Fly far bounce": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Freeway Shuffle": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "FUNKY SUMMER BEACH": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "GAIA": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "GHOST KINGDOM": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Go Down": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "going up": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "GORGEOUS 2012": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Gotta Dance": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "GRADIUSIC CYBER ~AMD G5 MIX~": {
+        "STANDARD": {
+            "level": "10"
+        }
+    },
+    "GUILTY DIAMONDS": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Habibe (Antuh muhleke)": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "HAPPY\u2606LUCKY\u2606YEAPPY": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Happy Wedding": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "HARD BRAIN": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "HEART BEAT FORMULA": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "HEARTBREAK (Sound Selektaz remix)": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Heatstroke": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Hella Deep": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "High School Love": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Hopeful": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Hunny Bunny": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "HYENA": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "HYPER EUROBEAT": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "HYSTERIA 2001": {
+        "CHALLENGE": {
+            "level": "10"
+        }
+    },
+    "Illegal Function Call": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "INNOCENCE OF SILENCE": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "IRON HEART": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "jane jana": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Jucunda Memoria": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "JUST BELIEVE": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Kiss me all night long": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "La Senorita": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "La Senorita Virtual": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Last Summer": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Let the beat hit em! (CLASSIC R&B STYLE)": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "LEVEL UP": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Lift You Up": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "LIKE A VAMPIRE": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Look at the Sky": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "LOVE IS THE POWER -Re:born-": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "LoveLove DokiDoki": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "MAGIC PARADE": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "MAKE IT BETTER(So-REAL Mix)": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "Malacca": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "MA\u30fbTSU\u30fbRI": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "MAXX UNLIMITED": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "MAX 300 (Super-Max-Me Mix)": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "Melody Life": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "11"
+        }
+    },
+    "Midnight Amaretto": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Monkey Punk": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "MOON": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "MOVE! (We Keep It Movin')": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Mythomane": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "New Generation": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "New Rules": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "NGO": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "nightbird lost wing": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "No Tears Left to Cry": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "One Sided Love": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "On The Break": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "PARANOiA ETERNAL": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "PARANOiA Rebirth": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "PARANOiA Revolution": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "18"
+        },
+        "CHALLENGE": {
+            "level": "19"
+        }
+    },
+    "PASSION OF LOVE": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Pink Rose": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Playing With Fire": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Pluto The First": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "POSSESSION": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Prettiful!": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "printemps": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Qwerty": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "rainbow rainbow": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Reach The Sky, Without you": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Rejoin": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Resurrection": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "REVOLUTIONARY ADDICT": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "SABER WING": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "SABER WING (AKIRA ISHIHARA Headshot mix)": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "S\u30fbA\u30fbG\u30fbA": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Sakura Reflection": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "sakura storm": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Sakura Sunrise": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "SCHWARZSCHILD FIELD": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Seize The Day": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Sephirot": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Seule": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "SEXY PLANET(FROM NONSTOP MEGAMIX)": {
+        "CHALLENGE": {
+            "level": "10"
+        }
+    },
+    "Shades of Grey": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "SHINY DAYS": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "SHION": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "siberite": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Silent Hill (3rd christmas mix)": {
+        "CHALLENGE": {
+            "level": "10"
+        }
+    },
+    "Slip Out (bounce in beat mix)": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Small Steps": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Smiling Passion": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "smooooch\u30fb\u2200\u30fb": {
+        "CHALLENGE": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Somehow You Found Me": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "Something Just Like This (Alesso Remix)": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "south": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "10"
+        }
+    },
+    "Splash Gold": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Star Gate Heaven": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Starry HEAVEN": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "STERLING SILVER": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "STILL IN MY HEART": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Struggle": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Summer fantasy (Darwin remix)": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "SUPER STAR (FROM NONSTOP MEGAMIX)": {
+        "CHALLENGE": {
+            "level": "10"
+        }
+    },
+    "Surrender (PureFocus remix)": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "switch": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Twinkle Wonderland": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Synergy For Angels": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Taj He Spitz": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "take me higher": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "The flower in your smile": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "The Wind of Gold": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Ticket to Bombay": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "TIERRA BUENA": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Tohoku EVOLVED": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "TOMORROW": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Tomorrow Perfume": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Too Late Snow": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Tracers (4Beat Remix)": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Tribe": {
+        "HEAVY": {
+            "level": "10"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Trim": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "TRUE \u2665 LOVE": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Trust -DanceDanceRevolution mix-": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "TSUBASA": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "TWINKLE\u2661HEART": {
+        "CHALLENGE": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "TYPH\u00d8N": {
+        "LIGHT": {
+            "level": "10"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "un deux trois": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Une mage blanche": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Waiting": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "WARNING\u00d7WARNING\u00d7WARNING": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "We Will Live Together": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "WILD RUSH": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "Wowie Zowie!": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Wuv U": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "xenon": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Xepher": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "X-ray binary": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Yuni's Nocturnal Days": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "YOU": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "You gotta move it (feat.Julie Rugaard)": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "You You You": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Your Angel": {
+        "HEAVY": {
+            "level": "10"
+        }
+    },
+    "50th Memorial Songs -Beginning Story-": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "8000000": {
+        "STANDARD": {
+            "level": "10"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u5996\u96a0\u3057 -\u3042\u3084\u304b\u3057\u304b\u304f\u3057-": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2 (walk with you remix)": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "\u6012\u308c\u308b\u5927\u304d\u306a\u767d\u3044\u99ac": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u8272\u306f\u5302\u3078\u3069\u6563\u308a\u306c\u308b\u3092": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u2191\u2191\u2193\u2193\u2190\u2192\u2190\u2192BA": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u30a6\u30b5\u30c6\u30a4": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "\u30a6\u30bd\u30c4\u30ad\u6a2a\u4e01\u306f\u96e8\u6a21\u69d8": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u6885\u96ea\u591c": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u30a8\u30ad\u30b5\u30a4\u30c6\u30a3\u30f3\u30b0!!\u3082\u30fb\u3061\u3083\u30fb\u3061\u3083\u2606": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u304a\u306d\u304c\u3044\u30c0\u30fc\u30ea\u30f3": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u6727": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "\u30ab\u30e9\u30d5\u30eb\u30df\u30cb\u30c3\u30c4": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u60a3\u90e8\u3067\u6b62\u307e\u3063\u3066\u3059\u3050\u6eb6\u3051\u308b\uff5e\u72c2\u6c17\u306e\u512a\u66c7\u83ef\u9662": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "\u304d\u3085\u3093\u00d7\u304d\u3085\u3093\u3070\u3063\u304d\u3085\u3093\u2606LOVE": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u93e1\u82b1\u6c34\u6708\u697c (DDR EDITION)": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u72c2\u6c34\u4e00\u83ef": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u5009\u91ce\u5ddd\u97f3\u982d": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u604b": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u604b\u306f\u3069\u3046\uff1f\u30e2\u30ed\u25ce\u6ce2\u52d5OK\u2606\u65b9\u7a0b\u5f0f\uff01\uff01": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u30b5\u30a4\u30ab": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u6700\u5c0f\u4e09\u500d\u5b8c\u5168\u6570": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "\u96d1\u8349\u9b42\u306a\u3081\u3093\u306a\u3088\uff01": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u685c": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u6f06\u9ed2\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30d7\u30ea\u30f3\u30bb\u30b9\u30b5\u30f3\u30c7\u30fc": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u707c\u71b1Beach Side Bunny": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "\u30b9\u30fc\u30d1\u30fc\u6226\u6e6f\u30d0\u30d0\u30f3\u30d0\u30fc\u30f3": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u30b9\u30ab\u30fc\u30ec\u30c3\u30c8\u8b66\u5bdf\u306e\u30b2\u30c3\u30c8\u30fc\u30d1\u30c8\u30ed\u30fc\u30eb24\u6642": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "\u96f6 -ZERO-": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u6253\u6253\u6253\u6253\u6253\u6253\u6253\u6253\u6253\u6253": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "\u30c1\u30e5\u30c3\u30c1\u30e5\u266a\u30de\u30c1\u30e5\u30d4\u30c1\u30e5": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u8ffd\u61b6\u306e\u30a2\u30ea\u30a2": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u7a81\u6483!\u30ac\u30e9\u30b9\u306e\u30cb\u30fc\u30bd\u59eb!": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u8f5f\u3051\uff01\u604b\u306e\u30d3\u30fc\u30f3\u30dc\u30fc\u30eb\uff01\uff01": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "\u30ca\u30a4\u30c8\u30fb\u30aa\u30d6\u30fb\u30ca\u30a4\u30c4": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "\u30ca\u30ca\u30db\u30b7": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u8679\u8272": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "\u8679\u8272\u306e\u82b1": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u30ce\u30eb\u30a8\u30d4\u30cd\u30d5\u30ea\u30f3": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u7206\u306a\u306a\u2606\u3066\u3059\u3068\u30ed\u30a4\u30e4\u30fc": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u83ef\u721b\u6f2b -Flowers-": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u30cf\u30d4\u604b\u2606\u3089\u3076\u308a\u3043\u30bf\u30a4\u30e0!!": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u30d1\u30d4\u30dd\u30da\u30d4\u30d7\u30da\u30d1": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u30cf\u30e9\u30b7\u30e7\u30fc\uff01\u304a\u306b\u304e\u308a\u30b5\u30fc\u30ab\u30b9\u56e3\u2606": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u30cf\u30eb\u30a4\u30c1\u30d0\u30f3": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u30d0\u30f3\u30d6\u30fc\u30bd\u30fc\u30c9\u30fb\u30ac\u30fc\u30eb": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "\u30d2\u30ab\u30ea\u30e6\u30ea\u30a4\u30ab": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u30d2\u30de\u30ef\u30ea": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u30db\u30fc\u30f3\u30c6\u30c3\u30c9\u2605\u30e1\u30a4\u30c9\u30e9\u30f3\u30c1": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "\u9b54\u6cd5\u306e\u305f\u307e\u3054 \uff5e\u5fc3\u83dc ELECTRO POP edition\uff5e": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u2606WAR": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u307f\u3085\u3001\u307f\u3085\u3001M\u00fcll\u308b": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u5922\u5e7b\u30ce\u5149": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u51a5": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "\u30e1\u30f3\u30bf\u30f3\u30d4\u30f3\u30c9\u30e9\u30c9\u30e9": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "\u30e2\u30ce\u30af\u30ed\u30e2\u30fc\u30e1\u30f3\u30c8": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u30e4\u30de\u30c8\u306a\u3067\u306a\u3067\u2661\u304b\u3050\u3084\u59eb": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "\u52c7\u731b\u7121\u6bd4": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u51db\u3068\u3057\u3066\u54b2\u304f\u82b1\u306e\u5982\u304f\uff5e\u3072\u306a\u30d3\u30bf\u266aedition\uff5e": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u604b\u9583\u7e5a\u4e71": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "\u60d1\u661f\u2606\u30ed\u30ea\u30dd\u30c3\u30d7": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "A": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "ABSOLUTE": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Acid,Tribal & Dance (DDR EDITION)": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Afterimage d'automne": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "ALGORITHM": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "AM-3P": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Angelic Jelly": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Another Phase": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "Anti-Matter": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Are U Ready": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Arrabbiata": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "bag": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Beluga": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "BLACK JACKAL": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "BLAKE": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Bloody Tears (IIDX EDITION)": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Blue Rain": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "Bounce Trippy": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "BRILLIANT 2U (AKBK MIX)": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "CANDY\u2606": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "CAN'T STOP FALLIN' IN LOVE": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "CELEBRATE NITE": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "CELEBRATE NITE (EURO TRANCE STYLE)": {
+        "CHALLENGE": {
+            "level": "11"
+        }
+    },
+    "Cleopatrysm": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Closer to my Heart (jun remix)": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Come Back To Me": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Crystarium": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "CyberConnect": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Dance Celebration": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "Dance Partay": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "DANCERUSH STARDOM ANTHEM": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Dazzlin' Darlin -\u79cb\u8449\u5de5\u623fmix-": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "DDR TAGMIX -LAST DanceR-": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Debug Dance": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Decade": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Deep tenDon Reflex": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "dirty digital": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "DIVE TO THE NIGHT": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "dreaming can make a wish come true": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Dream Machine": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "DROP": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "D2R": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "ECSTASY (midnight blue mix)": {
+        "CHALLENGE": {
+            "level": "11"
+        }
+    },
+    "Elemental Creation": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Elysium": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Emera": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Empathetic": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "era (nostalmix)": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Far east nightbird kors k Remix -DDR edit ver-": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Fascination MAXX": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "FIRE": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "First Time": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Fly away": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Follow Tomorrow": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "Freedom": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "GENOM SCREAMS": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Get On Da Floor": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Globe Glitter": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Go\u2193Go\u2191Girls&Boys!": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Grand Chariot": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "HAVE YOU NEVER BEEN MELLOW (20th Anniversary Mix)": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Healing Vision": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Healing Vision (Angelic mix)": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "HEART BEAT FORMULA (Vinyl Mix)": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Heavens and the Earth": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "HIGHER (next morning mix)": {
+        "CHALLENGE": {
+            "level": "11"
+        }
+    },
+    "Hyper Bomb": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "HYSTERIA": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "I'm an Albatraoz": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "IMANOGUILTS": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "Inner Spirit -GIGA HiTECH MIX-": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "INTO YOUR HEART (Ruffage remix)": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "invisible rain": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "I/O": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Ishtar": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "Jam&Marmalade": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "jet coaster\u2606girl": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "JET WORLD": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "JOKER": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "KEEP ON MOVIN' (DMX Mix)": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "KHAMEN BREAK": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "LA BAMBA": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "La Bamba": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "L'amour et la libert\u00e9 (Darwin&DJ Silver remix)": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "La receta": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Leaving...": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Let Me Know": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Let Me Show You": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Let's DANCE aROUND!!": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "little steps": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "LOGICAL DASH": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "London EVOLVED ver.A": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "London EVOLVED ver.B": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "London EVOLVED ver.C": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "LOVE AGAIN TONIGHT (For Melissa MIX)": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Love\u2661Shine \u308f\u3093\u3060\u3075\u308bmix": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "LOVING YOU (Epidemik remix)": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Magnetic": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "MANA": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "MARIA (I believe...)": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "MARS WAR 3": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "MAX LOVE": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Mermaid girl": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "message": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "murmur twins": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "MUTEKI BUFFALO": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Music In The Rhythm": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "New Decade": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "New Era": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "15"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Next Phase": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "No Life Queen [DJ Command Remix]": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Nostalgia Is Lost": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "oarfish": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "on the bounce": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "On the Night of a Still Wind": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "ONYX": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Our Soul": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "PARANOiA ~HADES~": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "15"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "PARANOiA -Respect-": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Party Lights": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Party Lights (Tommie Sunshine\u2019s Brooklyn Fire Remix)": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Party Rock Anthem": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Phlox": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Pierce The Sky": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "Plan 8": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Playa (Original Mix)": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "POSSESSION (20th Anniversary Mix)": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "PRANA": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "Prey": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "15"
+        },
+        "HEAVY": {
+            "level": "18"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Procyon": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Pump Pump Pump": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "PUNISHER": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Quickening": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Quick Master": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "rainbow flyer": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Racing with Time (NAOKI's 999 remix)": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Raspberry \u2665 Heart (English Version)": {
+        "CHALLENGE": {
+            "level": "11"
+        }
+    },
+    "Realize": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Red Cape Theorem": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Re:GENERATION": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "resonance": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "R\u0401VOLUTI\u03a6N": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Right Time Right Way": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "RISING FIRE HAWK": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Romancing Layer": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "ROOM": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "roppongi EVOLVED ver.A": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "roppongi EVOLVED ver.B": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "roppongi EVOLVED ver.C": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "roppongi EVOLVED ver.D": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Run The Show": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Sacred Oath": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "Sakura Mirage": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Scorching Moon": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Seta Para Cima\u2191\u2191": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "SEXY PLANET": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "\u2606shining\u2606": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Shiny World": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "Show me your moves": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "Silly Love": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "SILVER\u2606DREAM": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Silver Platform -I wanna get your heart-": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Skywalking": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Something Special": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Spanish Snowy Dance": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Sparkle Smilin'": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Special One": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "SPECIAL SUMMER CAMPAIGN!": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "SP-TRIP MACHINE (JUNGLE MIX) (X-Special)": {
+        "CHALLENGE": {
+            "level": "11"
+        }
+    },
+    "Starlight Fantasia": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Starlight in the Snow": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "starmine": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Start a New Day": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "stealth": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "STEP MACHINE": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "STERLING SILVER (U1 overground mix)": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "STILL IN MY HEART (MOMO MIX)": {
+        "CHALLENGE": {
+            "level": "11"
+        }
+    },
+    "Straight Oath": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "Strawberry Chu\u2661Chu\u2661": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "StrayedCatz": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Such A Feeling": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Sucka Luva": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "SUN\u00b2 SUMMER STEP!": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Take Me": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "THE ANCIENT KING IS BACK": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "the beat": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "The Least 100sec": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "The Lonely Streets": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "This Beat Is.....": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "THIS NIGHT": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Towards The Horizon": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Toy Box Factory": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Triple Counter": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "TRIP MACHINE survivor": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "TRIP MACHINE (X-Special)": {
+        "CHALLENGE": {
+            "level": "11"
+        }
+    },
+    "Truare!": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "True Blue": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "TSUGARU (APPLE MIX)": {
+        "CHALLENGE": {
+            "level": "11"
+        }
+    },
+    "Twin Bee -Generation X-": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Uh-Oh": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "UNBELIEVABLE (Sparky remix)": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Under the Sky": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Unreality": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Valanga": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "VANESSA": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "VEGA": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Vem brincar": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Venus": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "VOLAQUAS": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "15"
+        },
+        "HEAVY": {
+            "level": "18"
+        }
+    },
+    "Waiting 4 u": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "11"
+        }
+    },
+    "We Can Win The Fight": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "will": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "Windy Fairy": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Wolf's Rain": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Wow Wow VENUS": {
+        "HEAVY": {
+            "level": "11"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "ZEPHYRANTHES": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "ZETA ~\u7d20\u6570\u306e\u4e16\u754c\u3068\u8d85\u8d8a\u8005~": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    ".59": {
+        "HEAVY": {
+            "level": "11"
+        }
+    },
+    "1998 (Sparky 2006)": {
+        "STANDARD": {
+            "level": "11"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "IX": {
+        "LIGHT": {
+            "level": "11"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "\u3044\u30fc\u3042\u308b\u3075\u3041\u3093\u304f\u3089\u3076": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u30a4\u30fc\u30c7\u30a3\u30fc\u30a8\u30e0\u30fb\u30b8\u30e3\u30f3\u30d1\u30fc\u30ba": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u4e00\u9014": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u30a8\u30f3\u30c9\u30eb\u30d5\u30a3\u30f3": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u304a\u30fc\u307e\u3044\uff01\u3089\u3076\u308a\u30fc\uff01\u3059\u3046\u3043\u30fc\u3066\u3043\uff01\u3060\u30fc\u308a\u3093\uff01": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u304a\u7c73\u306e\u7f8e\u5473\u3057\u3044\u708a\u304d\u65b9\u3001\u305d\u3057\u3066\u304a\u7c73\u3092\u98df\u3079\u308b\u3053\u3068\u306b\u3088\u308b\u305d\u306e\u52b9\u679c\u3002": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "\u5fa1\u5343\u624b\u30e1\u30c7\u30a3\u30c6\u30fc\u30b7\u30e7\u30f3": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u6727 (dj TAKA Remix)": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "\u30ad\u30e4\u30ed\u30e9\u885b\u661f\u306e\u8ecc\u8de1": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "\u604b\u3059\u308b\u2606\u5b87\u5b99\u6226\u4e89\u3063!!": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "\u604b\u306e\u6c37\u7d50\u304a\u3066\u3093\u3070\u6e6f\u3051\u3080\u308a\u30c1\u30eb\u30ce\u6e29\u6cc9": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u6700\u901f\u6700\u9ad8\u30b7\u30e3\u30c3\u30bf\u30fc\u30ac\u30fc\u30eb": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "\u30b7\u30eb\u30fb\u30f4\u30fb\u30d7\u30ec\u30b8\u30c7\u30f3\u30c8": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "\u5927\u898b\u89e3": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "\u7537\u3005\u9053": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u5929\u7a7a\u306e\u83ef": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u5929\u4e0a\u306e\u661f\uff5e\u9ece\u660e\u8a18\uff5e": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u3068\u3053\u306b\u3083\u3064\u2606\u30c8\u30ed\u30d4\u30ab\u30eb": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u5606\u304d\u306e\u6a39": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "\u4f10\u6298\u7f85-vajra-": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "\u661f\u5c51\u306e\u591c\u679c\u3066": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u30dd\u30b8\u30c6\u30a3\u30d6\u2606\u30c0\u30f3\u30b9\u30bf\u30a4\u30e0": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u4e09\u6bdb\u732b\u30ed\u30c3\u30af": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u6591\u54b2\u82b1": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "\u30e4\u30b5\u30a4\u30de\u30b7\u2606\u30cb\u30f3\u30cb\u30af\u30a2\u30d6\u30e9\u30aa\u30aa\u30e1": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u30e6\u30e1\u30d6\u30ad": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "\u30eb\u30df\u30ca\u30b9\u30c7\u30a4\u30ba": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "\u604b\u611b\u89b3\u6e2c -2021\u771f\u590f\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0 ver.-": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u6d77\u795e": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "ACROSS WORLD": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "Ah La La La": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "ANNIVERSARY \u2234\u2235\u2234 \u2190\u2193\u2191\u2192": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Astrogazer": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Bad Apple! feat.nomico": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Better Than Me": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Be With You (Still Miss you)": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Blind Justice ~Torn souls,Hurt Faiths~": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Brazilian Anthem": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "BRE\u2200K DOWN!": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "BREDLI": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "BROKEN MY HEART": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "cachaca": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "CANDY\u2606 (X-Special)": {
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "CHAOS": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "CHAOS Terror-Tech Mix": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "chaos eater": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "chaplet": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Chinese Snowy Dance": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Chromatic Burst": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Chronos": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "City Never Sleeps": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "COME BACK TO MY HEART": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Come to Life": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Complete Game Victory": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Concertino in Blue": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "concon": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Confession": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "CRAZY\u2665LOVE": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Dance Dance Revolution": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "Desert Journey": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "Diamond Night": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "DIGITALIZER": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "District of the Shadows": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "DoLL": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "DOUBLE TORNARD": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Drive Away": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "DROP OUT (FROM NONSTOP MEGAMIX)": {
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "D2R -\"FREEZE\" Special-": {
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "Electronic or Treat!": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Electro Tuned (the SubS mix)": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Engraved Mark": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "ever snow": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Feelings Won't Fade (Extend Trance Mix)": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Freeze": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Gamelan de Couple": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Get it": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "GIRIGILI\u9580\u524d\u96c0\u7f85": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Give Me": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "GLITTER": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Go For The Top": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Going Hypersonic": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "GOLD RUSH": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Golden Arrow": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Go To The Oasis": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "GRADIUS REMIX\uff08\u2191\u2191\u2193\u2193\u2190\u2192\u2190\u2192BA Ver.)": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "HAPPY\u2606ANGEL": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "Heaven is a '57 metallic gray (gimmix)": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Helios": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "High & Low": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Hold Tight": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Hoping To Be Good": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "HyperTwist": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "I believe what you said": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Idola": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "If": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "i feel...": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "iFUTURELIST (DDR VERSION)": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "I'm Flying Away": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "I'm so Happy": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "IN BETWEEN": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "insist": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "In the past": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "I Want To Do This Keep": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Jetcoaster Windy": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "JOMANDA": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Jungle Dance": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "KIMONO \u2665 PRINCESS": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "KISS KISS KISS": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "KISS KISS KISS \u79cb\u8449\u5de5\u623f MIX": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Last Card": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Last Twilight": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Life is beautiful": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Lightspeed": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Like A Star": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "LOVE SHINE (Body Grooverz 2006 mix)": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Make A Difference": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "MAX.(period)": {
+        "LIGHT": {
+            "level": "12"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "MOONSTER": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Musician": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "MY SUMMER LOVE (TOMMY'S SMILE MIX)": {
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "NEPHILIM DELTA": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Neverland": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "ON-DO": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "ORION.78 (AMeuro-MIX)": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Our Love": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "out of focus": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "\u03a9VERSOUL": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Over The \u201cPeriod\u201d": {
+        "LIGHT": {
+            "level": "12"
+        },
+        "STANDARD": {
+            "level": "15"
+        },
+        "HEAVY": {
+            "level": "18"
+        },
+        "CHALLENGE": {
+            "level": "19"
+        }
+    },
+    "paparazzi": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "PARANOiA EVOLUTION": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "PERSIAN LAND": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Pluto Relinquish": {
+        "LIGHT": {
+            "level": "12"
+        },
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "Poochie": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Private Eye": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Qipchaq": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Rave Accelerator": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "RED ZONE": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Rescue Me": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Riot of Color": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Rise As One": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Samurai Shogun vs. Master Ninja": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Sand Blow": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Seasons": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Secret Rendez-vous": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Sector": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Share The Love": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "She is my wife": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "S!ck": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Six String Proof": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Ska Ska No.3": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "SMASH": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "SOUVENIR": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "spring pony": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Starlight Fantasia (Endorphins Mix)": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Stella Sinistra": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "SUNKiSS \u2665 DROP": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "12"
+        }
+    },
+    "SUPER SAMURAI": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "SUPER STAR": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "SUPER SUMMER SALE": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Sweet Clock": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "SWEET HOME PARTY": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Taj He Spitz (Tommie Sunshine's Brooklyn Fire Re-Touch)": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "TEARS": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Teleportation": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "THE REASON": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "Top The Charts": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "Trill auf G": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Triple Journey -TAG EDITION-": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "TRIP MACHINE PhoeniX": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "TRIP MACHINE (xac nanoglide mix)": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Unity": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Unreal": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Vertigo": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "V (for EXTREME)": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Vanquish The Ghost": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Votum Stellarum -forest \uff0325DDR RMX-": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Wings of an Angel(Fly With Me)": {
+        "HEAVY": {
+            "level": "12"
+        }
+    },
+    "Worst Plan": {
+        "STANDARD": {
+            "level": "12"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "You are a Star": {
+        "HEAVY": {
+            "level": "12"
+        },
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "\u6fc0\u30a2\u30c4\u2606\u30de\u30b8\u30e4\u30d0\u2606\u30c1\u30a2\u30ac\u30fc\u30eb(\u6fc0": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u707c\u71b1 Pt.2 Long Train Running": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "\u30ca\u30a4\u30c8\u30fb\u30aa\u30d6\u30fb\u30ca\u30a4\u30c4 (Ryu\u2606Remix)": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "\u7121\u983c\u30c3\u30af\u81ea\u5df1\u30e9\u30a4\u30b6\u30fc": {
+        "HEAVY": {
+            "level": "13"
+        },
+        "CHALLENGE": {
+            "level": "15"
+        }
+    },
+    "\u30e9\u30f3\u30ab\u30fc\u30ad\u30e9\u30fc\u30ac\u30fc\u30eb": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "\u7e5a\u4e71\u30d2\u30c3\u30c8\u30c1\u30e3\u30fc\u30c8": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u30ea\u30ea\u30fc\u30bc\u3068\u708e\u9f8d\u30ec\u30fc\u30f4\u30a1\u30c6\u30a4\u30f3": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "Abrupt Madness": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "ACE FOR ACES": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "AFRONOVA (X-Special)": {
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "BRILLIANT 2U -\"STREAM\" Special-": {
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Burning Heat! (3 Option Mix)": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "CaptivAte ~\u8a93\u3044~": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Dance Dance Revolution (X-Special)": {
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "DDR MEGAMIX": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "15"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "\u0394MAX": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "Destiny Lovers": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "\u2661Drive My Heart\u2661": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Eon Break": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "exotic ethnic": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Firestorm": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        },
+        "CHALLENGE": {
+            "level": "16"
+        }
+    },
+    "Flow (Jammin' Ragga Mix)": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Flow (True style)": {
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Glitch Angel": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "GRADIUSIC CYBER (AMD G5 Mix)": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Haunted Rhapsody": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "I Love You": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "KING": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "M.A.Y.U.": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "New York EVOLVED (TYPE A)": {
+        "STANDARD": {
+            "level": "13"
+        }
+    },
+    "New York EVOLVED (TYPE B)": {
+        "STANDARD": {
+            "level": "13"
+        }
+    },
+    "New York EVOLVED (TYPE C)": {
+        "STANDARD": {
+            "level": "13"
+        }
+    },
+    "PARANOiA ETERNAL (X-Special)": {
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "PARANOiA MAX ~DIRTY MIX~ (X-Special)": {
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "PARANOiA (X-Special)": {
+        "CHALLENGE": {
+            "level": "13"
+        }
+    },
+    "Puberty Dysthymia": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Pure Rude": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "PUT YOUR FAITH IN ME (DA's Twinkly Disco Remix)": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Snow Garland Fairy": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Something Comforting": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "stellar rain": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "TAKE ME HIGHER\u203bA3": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "16"
+        }
+    },
+    "The legend of MAX": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "Ubertreffen": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "volcano": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "What Will Come of Me": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "Wicked Plastik": {
+        "HEAVY": {
+            "level": "13"
+        }
+    },
+    "888": {
+        "STANDARD": {
+            "level": "13"
+        },
+        "HEAVY": {
+            "level": "14"
+        },
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "\u963f\u6ce2\u304a\u3069\u308a -Awaodori- \u3084\u3063\u3071\u308a\u8e0a\u308a\u306f\u3084\u3081\u3089\u308c\u306a\u3044": {
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "\u9769\u547d (X-Special)": {
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "AM-3P -\"CHAOS\" Special-": {
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "B4U -\"VOLTAGE\" Special-": {
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "Determination": {
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "FIRE FIRE": {
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Flip Flap": {
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "GLOW THE CROWN": {
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Healing Vision (X-Special)": {
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "PARANOIA EVOLUTION (X-Special)": {
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "PARANOiA Rebirth (X-Special)": {
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "perditus\u2020paradisus": {
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "Poseidon (kors k mix)": {
+        "HEAVY": {
+            "level": "14"
+        }
+    },
+    "Pursuer": {
+        "STANDARD": {
+            "level": "14"
+        },
+        "HEAVY": {
+            "level": "17"
+        }
+    },
+    "TRIP MACHINE CLIMAX (X-Special)": {
+        "CHALLENGE": {
+            "level": "14"
+        }
+    },
+    "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4": {
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "PARANOiA survivor": {
+        "HEAVY": {
+            "level": "15"
+        }
+    },
+    "MAX 300 (X-Special)": {
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "The Legend of MAX (X-Special)": {
+        "CHALLENGE": {
+            "level": "17"
+        }
+    },
+    "DEAD END -\"GROOVE RADAR\" Special-": {
+        "CHALLENGE": {
+            "level": "18"
+        }
+    },
+    "MAXX UNLIMITED (X-Special)": {
+        "CHALLENGE": {
+            "level": "18"
+        }
+    }
+}
