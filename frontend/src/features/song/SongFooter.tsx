@@ -40,7 +40,7 @@ const PaginationButton = styled.button`
 `;
 
 function SongFooter() {
-  const { table, count } = useSongTable();
+  const { table } = useSongTable();
 
   const [searchParams, setSearchParams] = useSearchParams();
 

@@ -47,9 +47,9 @@ const SongTableContext = createContext<{
 
 // why emptyArray?
 // ref: https://github.com/TanStack/table/issues/4240
-const emptyArray = [];
+const emptyArray: Song[] = [];
 
-function SongTableContextProvider({ children }) {
+function SongTableContextProvider({ children }: { children: JSX.Element }) {
   const { songs, pageCount, count, isLoading } = useGetSongs();
 
   const [columns] = useState(() => [...defaultColumns]);

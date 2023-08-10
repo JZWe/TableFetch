@@ -1,7 +1,6 @@
 import { useQuery, useQueryClient } from '@tanstack/react-query';
 import { useSearchParams } from 'react-router-dom';
 import { getSongs as getSongsApi } from '../../services/apiSong';
-import { Song } from './types';
 
 function useGetSongs() {
   const [searchParams] = useSearchParams();
@@ -10,12 +9,12 @@ function useGetSongs() {
   const page = !searchParams.get('page') ? 1 : Number(searchParams.get('page'));
 
   // Fetch current page
-  const { isLoading, data, error } = useQuery<Song[]>({
+  const { isLoading, data, error } = useQuery({
     queryKey: ['songs', page],
     queryFn: () => getSongsApi({ page }),
   });
 
-  let pageCount = data?.pageCount ?? 0;
+  const pageCount = data?.pageCount ?? 0;
 
   // Pre-fetch next page
   if (page < pageCount)

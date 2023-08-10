@@ -4,7 +4,7 @@ import { useSongTable } from './SongTableContext';
 
 function SongHeader() {
   const { table } = useSongTable();
-  console.log('SongHeader');
+
   return (
     <>
       <Table.Header>
