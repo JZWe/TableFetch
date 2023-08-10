@@ -6,10 +6,12 @@ export async function getSongs({
   limit = 50,
   page = 1,
   sortBy,
+  levelFilter,
 }: {
   limit?: number;
   page?: number;
   sortBy?: Record<string, string>;
+  levelFilter?: number | 'all';
 }) {
   let query = supabase
     .from('sp_songs')
@@ -18,37 +20,71 @@ export async function getSongs({
       { count: 'exact' }
     );
 
-  // limit
-  query = query.limit(limit);
-
-  if (sortBy)
-    query = query.order(sortBy.field, {
-      ascending: sortBy.direction === 'asc',
-    });
-
   const from = (page - 1) * limit;
   const to = from + limit - 1;
-  query = query.range(from, to);
+
+  // 沒有註明 levelFilter -> 透過 supabase 執行分頁
+  if (!levelFilter || levelFilter === 'all') {
+    query = query.limit(limit).range(from, to);
+  }
 
   // 在此註明型別，避免引用 API 的時候，會改成顯示 supabase 的表格定義
-  const {
-    data,
-    error,
-    count,
-  }: {
-    data: Song[] | null;
+  const result: {
     error: PostgrestError | null;
     count: number | null;
+    data: Song[] | null;
   } = await query;
 
-  if (error) {
-    console.error(error);
+  let data = result.data;
+  let count = result.count;
+  let pageCount = count === null ? 0 : Math.ceil(count / limit);
+
+  if (result.error) {
+    console.error(result.error);
     throw new Error('Songs not found');
+  }
+
+  // 有註明 levelFilter，單純透過前端獲取所有資料並進行分頁以及等級篩選
+  if (typeof levelFilter === 'number' && Array.isArray(data)) {
+    const difficulties = [
+      'beginnerDifficulty',
+      'lightDifficulty',
+      'standardDifficulty',
+      'heavyDifficulty',
+      'challengeDifficulty',
+    ] as const;
+
+    data = data
+      .filter((element) => {
+        return difficulties.some(
+          (difficulty) => element[difficulty] === levelFilter
+        );
+      })
+      .map((element) => {
+        const obj: Song = {
+          name: element.name,
+          beginnerDifficulty: null,
+          lightDifficulty: null,
+          standardDifficulty: null,
+          heavyDifficulty: null,
+          challengeDifficulty: null,
+        };
+        difficulties.forEach((difficulty) => {
+          obj[difficulty] =
+            element[difficulty] != levelFilter ? null : element[difficulty];
+        });
+        return obj;
+      });
+
+    count = data?.length ?? 0;
+    data = data.filter((_, index) => index >= from && index <= to);
+    pageCount = Math.ceil(count / limit);
   }
 
   return {
     data,
-    pageCount: count === null ? 0 : Math.ceil(count / limit),
+    error: result.error,
+    pageCount,
     count,
   };
 }
