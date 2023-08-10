@@ -10,18 +10,20 @@ function SongHeader() {
       <Table.Header>
         {table?.getHeaderGroups().map((headerGroup) => {
           {
-            return headerGroup.headers.map((header) => (
-              <span key={header.id}>
-                {header.isPlaceholder
-                  ? null
-                  : flexRender(
-                      header.column.columnDef.header,
-                      header.getContext()
-                    )}
-              </span>
-            ));
+            return headerGroup.headers.map((header) => {
+              return (
+                <span key={header.id}>
+                  {header.isPlaceholder
+                    ? null
+                    : flexRender(
+                        header.column.columnDef.header,
+                        header.getContext()
+                      )}
+                </span>
+              );
+            });
           }
-        })}
+        }) ?? null}
       </Table.Header>
     </>
   );

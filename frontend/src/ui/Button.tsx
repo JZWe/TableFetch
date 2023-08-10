@@ -1,6 +1,15 @@
-import styled, { css } from 'styled-components';
+import styled, { css, RuleSet } from 'styled-components';
+import { ButtonHTMLAttributes } from 'react';
 
-const sizes = {
+type StyledRecord<T extends string> = Record<T, RuleSet<object>>;
+
+type SizesKey = 'small' | 'medium' | 'large';
+type SizesRecord = StyledRecord<SizesKey>;
+
+type VariationsKey = 'primary' | 'secondary' | 'danger';
+type VariationsRecord = StyledRecord<VariationsKey>;
+
+const sizes: SizesRecord = {
   small: css`
     font-size: 1.2rem;
     padding: 0.4rem 0.8rem;
@@ -20,7 +29,7 @@ const sizes = {
   `,
 };
 
-const variations = {
+const variations: VariationsRecord = {
   primary: css`
     color: var(--color-brand-50);
     background-color: var(--color-brand-600);
@@ -48,18 +57,20 @@ const variations = {
   `,
 };
 
-const Button = styled.button`
+type StyledButtonProps = ButtonHTMLAttributes<HTMLButtonElement> & {
+  size?: SizesKey;
+  variation?: VariationsKey;
+};
+
+// ref: https://stackoverflow.com/questions/47077210/using-styled-components-with-props-and-typescript
+const Button = styled.button<StyledButtonProps>`
   border: none;
   border-radius: var(--border-radius-sm);
   box-shadow: var(--shadow-sm);
 
-  ${(props) => sizes[props.size]}
-  ${(props) => variations[props.variation]}
+  ${({ size }) => sizes?.[size as SizesKey] ?? sizes['medium']}
+  ${({ variation }) =>
+    variations?.[variation as VariationsKey] ?? variations['primary']}
 `;
-
-Button.defaultProps = {
-  variation: 'primary',
-  size: 'medium',
-};
 
 export default Button;

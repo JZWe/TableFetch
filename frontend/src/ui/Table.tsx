@@ -1,5 +1,14 @@
 import { createContext, useContext } from 'react';
+import { Row as RowType } from '@tanstack/react-table';
 import styled from 'styled-components';
+
+type CommonRowProps = {
+  columns?: string;
+};
+
+type TableContextType = {
+  columns?: string;
+};
 
 const StyledTable = styled.div`
   border: 1px solid var(--color-grey-200);
@@ -10,7 +19,7 @@ const StyledTable = styled.div`
   overflow: hidden;
 `;
 
-const CommonRow = styled.div`
+const CommonRow = styled.div<CommonRowProps>`
   display: grid;
   grid-template-columns: ${(props) => props.columns};
   column-gap: 2.4rem;
@@ -60,9 +69,15 @@ const Empty = styled.p`
   margin: 2.4rem;
 `;
 
-const TableContext = createContext();
+const TableContext = createContext<TableContextType>({ columns: '' });
 
-function Table({ columns, children }) {
+function Table({
+  columns,
+  children,
+}: {
+  columns: string;
+  children: JSX.Element | JSX.Element[];
+}) {
   return (
     <TableContext.Provider value={{ columns }}>
       <StyledTable role="table">{children}</StyledTable>
@@ -70,8 +85,9 @@ function Table({ columns, children }) {
   );
 }
 
-function Header({ children }) {
+function Header({ children }: { children: JSX.Element[][] | null }) {
   const { columns } = useContext(TableContext);
+
   return (
     <StyledHeader role="row" columns={columns} as="header">
       {children}
@@ -79,7 +95,7 @@ function Header({ children }) {
   );
 }
 
-function Row({ children }) {
+function Row({ children }: { children: JSX.Element | JSX.Element[] }) {
   const { columns } = useContext(TableContext);
   return (
     <StyledRow role="row" columns={columns}>
@@ -88,7 +104,13 @@ function Row({ children }) {
   );
 }
 
-function Body({ data, render }) {
+function Body<T>({
+  data,
+  render,
+}: {
+  data: RowType<T>[] | null;
+  render: (data: RowType<T>) => JSX.Element | JSX.Element[];
+}) {
   if (!data?.length) return <Empty>No data to show at the moment</Empty>;
 
   return <StyledBody>{data.map(render)}</StyledBody>;

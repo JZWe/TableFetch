@@ -8,7 +8,7 @@ function SongBody() {
 
   return (
     <Table.Body
-      data={table?.getRowModel().rows}
+      data={table?.getRowModel().rows ?? null}
       render={(row: Row<Song>) => {
         return (
           <Table.Row>

@@ -1,10 +1,14 @@
-import { useEffect } from 'react';
+import { useEffect, ButtonHTMLAttributes } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import styled from 'styled-components';
 import Table from '../../ui/Table';
 import { useSongTable } from './SongTableContext';
 
-const PaginationButton = styled.button`
+type PaginationButtonType = ButtonHTMLAttributes<HTMLButtonElement> & {
+  active?: boolean;
+};
+
+const PaginationButton = styled.button<PaginationButtonType>`
   background-color: ${(props) =>
     props.active ? 'var(--color-brand-600)' : 'var(--color-grey-50)'};
   color: ${(props) => (props.active ? ' var(--color-brand-50)' : 'inherit')};
