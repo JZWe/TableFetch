@@ -50,7 +50,7 @@ const SongTableContext = createContext<{
 const emptyArray: Song[] = [];
 
 function SongTableContextProvider({ children }: { children: JSX.Element }) {
-  const { songs, pageCount, count, isLoading } = useGetSongs();
+  const { songs, pageCount, isLoading } = useGetSongs();
 
   const [columns] = useState(() => [...defaultColumns]);
 
@@ -67,7 +67,7 @@ function SongTableContextProvider({ children }: { children: JSX.Element }) {
   });
 
   return (
-    <SongTableContext.Provider value={{ table, isLoading, pageCount, count }}>
+    <SongTableContext.Provider value={{ table, isLoading, pageCount }}>
       {children}
     </SongTableContext.Provider>
   );
