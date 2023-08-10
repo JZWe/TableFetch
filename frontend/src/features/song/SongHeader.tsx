@@ -1,14 +1,14 @@
 import { flexRender } from '@tanstack/react-table';
 import Table from '../../ui/Table';
-import useSongTable from './useSongTable';
+import { useSongTable } from './SongTableContext';
 
 function SongHeader() {
   const { table } = useSongTable();
-
+  console.log('SongHeader');
   return (
     <>
       <Table.Header>
-        {table.getHeaderGroups().map((headerGroup) => {
+        {table?.getHeaderGroups().map((headerGroup) => {
           {
             return headerGroup.headers.map((header) => (
               <span key={header.id}>
