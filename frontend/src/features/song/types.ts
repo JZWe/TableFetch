@@ -1,6 +1,10 @@
 import { Range } from '../../utils/types';
+import { Database } from '../../utils/supabase';
 
+// 未來在做新增、編輯資料的時候可能會用到，所以也 export 出去
 export type DifficultyNumber = Range<1, 20>;
+
+// OriginalDifficultyName, OriginalData 給 Header 解析 JSON 資料用的
 export type OriginalDifficultyName =
   | 'BEGINNER'
   | 'LIGHT'
@@ -13,15 +17,13 @@ export type OriginalData = Record<
   Record<OriginalDifficultyName, { level: DifficultyNumber | null }>
 >;
 
-// https://stackoverflow.com/questions/69635210/typescript-cannot-declare-additional-properties-on-mapped-types
-export type SongDifficulties = {
-  [P in keyof OriginalDifficultyName as `${Lowercase<OriginalDifficultyName>}`]: DifficultyNumber | null;
-};
+// 從 supabase 解析出來的 Table 定義
+type SPRows = Database['public']['Tables']['sp_songs']['Row'];
+export type SPDifficultyName =
+  | 'beginnerDifficulty'
+  | 'challengeDifficulty'
+  | 'heavyDifficulty'
+  | 'lightDifficulty'
+  | 'standardDifficulty';
 
-export type MappedSongDifficulties = {
-  [P in keyof SongDifficulties as `${Lowercase<P>}Difficulty`]: SongDifficulties[P];
-};
-
-export type Song = MappedSongDifficulties & {
-  name: string;
-};
+export type Song = Pick<SPRows, 'name' | SPDifficultyName>;

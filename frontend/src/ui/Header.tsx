@@ -1,14 +1,11 @@
 import styled from 'styled-components';
 import Button from './Button';
-import {
-  deleteAllSongs,
-  uploadSongs as uploadSongsApi,
-} from '../services/apiSong';
+import { uploadSongs as uploadSongsApi } from '../services/apiSong';
 import {
   Song,
   OriginalData,
-  MappedSongDifficulties,
   OriginalDifficultyName,
+  SPDifficultyName,
 } from '../features/song/types';
 
 const StyledHeader = styled.header`
@@ -22,9 +19,7 @@ const StyledHeader = styled.header`
   justify-content: flex-end;
 `;
 
-function isMappedSongDifficulty(
-  str: string
-): str is keyof MappedSongDifficulties {
+function isMappedSongDifficulty(str: string): str is SPDifficultyName {
   return [
     'beginnerDifficulty',
     'lightDifficulty',

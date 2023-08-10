@@ -1,6 +1,7 @@
-import { flexRender } from '@tanstack/react-table';
+import { flexRender, Row } from '@tanstack/react-table';
 import Table from '../../ui/Table';
 import { useSongTable } from './SongTableContext';
+import { Song } from './types';
 
 function SongBody() {
   const { table } = useSongTable();
@@ -8,7 +9,7 @@ function SongBody() {
   return (
     <Table.Body
       data={table?.getRowModel().rows}
-      render={(row) => {
+      render={(row: Row<Song>) => {
         return (
           <Table.Row>
             {row.getVisibleCells().map((cell) => (
