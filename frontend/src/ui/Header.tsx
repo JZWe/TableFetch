@@ -7,6 +7,7 @@ import {
   OriginalDifficultyName,
   SPDifficultyName,
 } from '../features/song/types';
+import { useAuth } from '../features/authentication/AuthContext';
 
 const StyledHeader = styled.header`
   background-color: var(--color-grey-0);
@@ -74,9 +75,16 @@ async function handleUploadSongs() {
 }
 
 function Header() {
+  const { login, logout, isAdmin } = useAuth();
   return (
     <StyledHeader>
-      <Button onClick={handleUploadSongs}>Upload Songs</Button>
+      {!isAdmin && <Button onClick={login}>Login</Button>}
+      {isAdmin && (
+        <>
+          <Button onClick={logout}>Logout</Button>
+          <Button onClick={handleUploadSongs}>Upload Songs</Button>
+        </>
+      )}
     </StyledHeader>
   );
 }
