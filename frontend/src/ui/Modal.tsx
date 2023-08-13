@@ -83,29 +83,50 @@ function Modal({ children }: { children: JSX.Element[] }) {
 function Open({
   children,
   opens: opensWindowName,
+  onOpen,
 }: {
   children: JSX.Element;
   opens: string;
+  onOpen?: () => void;
 }) {
   const { open } = useContext(ModalContext);
 
-  return cloneElement(children, { onClick: () => open(opensWindowName) });
+  function handleOpen() {
+    open(opensWindowName);
+    onOpen?.();
+  }
+
+  return cloneElement(children, { onClick: handleOpen });
 }
 
-function Window({ children, name }: { children: JSX.Element; name: string }) {
+function Window({
+  children,
+  name,
+  onClose,
+}: {
+  children: JSX.Element;
+  name: string;
+  onClose?: () => void;
+}) {
   const { openName, close } = useContext(ModalContext);
-  const ref = useOutsideClick(close);
+
+  function handleClose() {
+    close();
+    onClose?.();
+  }
+
+  const ref = useOutsideClick(handleClose);
 
   if (name !== openName) return null;
 
   return createPortal(
     <Overlay>
       <StyledModal ref={ref}>
-        <Button onClick={close}>
+        <Button onClick={handleClose}>
           <HiXMark />
         </Button>
 
-        <div>{cloneElement(children, { onCloseModal: close })}</div>
+        <div>{cloneElement(children, { onCloseModal: handleClose })}</div>
       </StyledModal>
     </Overlay>,
     document.body
