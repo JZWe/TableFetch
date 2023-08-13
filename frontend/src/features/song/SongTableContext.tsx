@@ -9,6 +9,7 @@ import { Song } from './types';
 import useGetSongs from './useGetSongs';
 import { useAuth } from '../authentication/AuthContext';
 import EditSong from './EditSong';
+import DeleteSong from './DeleteSong';
 
 const SongTableContext = createContext<{
   table: Table<Song> | null;
@@ -87,6 +88,10 @@ function SongTableContextProvider({ children }: { children: JSX.Element }) {
               cell: (info) => (
                 <div style={{ display: 'flex', gap: '1rem' }}>
                   <EditSong id={info.row.original.id} />
+                  <DeleteSong
+                    id={info.row.original.id}
+                    name={info.row.original.name ?? ''}
+                  />
                 </div>
               ),
             },

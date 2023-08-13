@@ -5,7 +5,6 @@ import { Song, SongFormValues } from '../features/song/types';
 export async function getSongs({
   limit = 50,
   page = 1,
-  sortBy,
   levelFilter,
 }: {
   limit?: number;
@@ -118,7 +117,6 @@ export async function getSong(id: number | string) {
 }
 
 export async function editSong(newSong: SongFormValues, id: number | string) {
-  // 1. Create/edit cabin
   const query = supabase.from('sp_songs').update(newSong).eq('id', id);
 
   const { data, error } = await query.select().single();
@@ -126,6 +124,19 @@ export async function editSong(newSong: SongFormValues, id: number | string) {
   if (error) {
     console.error(error);
     throw new Error('Song could not be edited');
+  }
+
+  return data;
+}
+
+export async function deleteSong(id: number | string) {
+  const query = supabase.from('sp_songs').delete().eq('id', id);
+
+  const { data, error } = await query.select().single();
+
+  if (error) {
+    console.error(error);
+    throw new Error('Song could not be deleted');
   }
 
   return data;
