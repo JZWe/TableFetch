@@ -1,4 +1,4 @@
-import { createContext, useContext, useState } from 'react';
+import { createContext, useContext, useMemo } from 'react';
 import {
   ColumnDef,
   Table,
@@ -7,33 +7,8 @@ import {
 } from '@tanstack/react-table';
 import { Song } from './types';
 import useGetSongs from './useGetSongs';
-
-const defaultColumns: ColumnDef<Song>[] = [
-  {
-    header: 'Name',
-    accessorKey: 'name',
-  },
-  {
-    accessorKey: 'beginnerDifficulty',
-    header: () => 'Beginner',
-  },
-  {
-    accessorKey: 'lightDifficulty',
-    header: () => 'Light',
-  },
-  {
-    accessorKey: 'standardDifficulty',
-    header: () => 'Standard',
-  },
-  {
-    accessorKey: 'heavyDifficulty',
-    header: () => 'Heavy',
-  },
-  {
-    accessorKey: 'challengeDifficulty',
-    header: () => 'Challenge',
-  },
-];
+import { useAuth } from '../authentication/AuthContext';
+import EditSong from './EditSong';
 
 const SongTableContext = createContext<{
   table: Table<Song> | null;
@@ -50,9 +25,76 @@ const SongTableContext = createContext<{
 const emptyArray: Song[] = [];
 
 function SongTableContextProvider({ children }: { children: JSX.Element }) {
-  const { songs, pageCount, isLoading } = useGetSongs();
+  const { isAdmin } = useAuth();
 
-  const [columns] = useState(() => [...defaultColumns]);
+  const columns: ColumnDef<Song>[] = useMemo(
+    () =>
+      !isAdmin
+        ? [
+            {
+              header: 'Name',
+              accessorKey: 'name',
+            },
+            {
+              accessorKey: 'beginnerDifficulty',
+              header: () => 'Beginner',
+            },
+            {
+              accessorKey: 'lightDifficulty',
+              header: () => 'Light',
+            },
+            {
+              accessorKey: 'standardDifficulty',
+              header: () => 'Standard',
+            },
+            {
+              accessorKey: 'heavyDifficulty',
+              header: () => 'Heavy',
+            },
+            {
+              accessorKey: 'challengeDifficulty',
+              header: () => 'Challenge',
+            },
+          ]
+        : [
+            {
+              header: 'Name',
+              accessorKey: 'name',
+            },
+            {
+              accessorKey: 'beginnerDifficulty',
+              header: () => 'Beginner',
+            },
+            {
+              accessorKey: 'lightDifficulty',
+              header: () => 'Light',
+            },
+            {
+              accessorKey: 'standardDifficulty',
+              header: () => 'Standard',
+            },
+            {
+              accessorKey: 'heavyDifficulty',
+              header: () => 'Heavy',
+            },
+            {
+              accessorKey: 'challengeDifficulty',
+              header: () => 'Challenge',
+            },
+            {
+              header: () => 'Operations',
+              id: 'operations',
+              cell: (info) => (
+                <div style={{ display: 'flex', gap: '1rem' }}>
+                  <EditSong id={info.row.original.id} />
+                </div>
+              ),
+            },
+          ],
+    [isAdmin]
+  );
+
+  const { songs, pageCount, isLoading } = useGetSongs();
 
   const table = useReactTable({
     data: songs ?? emptyArray,
