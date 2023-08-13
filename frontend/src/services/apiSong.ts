@@ -1,6 +1,6 @@
 import { PostgrestError } from '@supabase/supabase-js';
 import supabase from './supabase';
-import { Song } from '../features/song/types';
+import { Song, SongFormValues } from '../features/song/types';
 
 export async function getSongs({
   limit = 50,
@@ -18,7 +18,8 @@ export async function getSongs({
     .select(
       'id, name, beginnerDifficulty, lightDifficulty, heavyDifficulty, standardDifficulty, challengeDifficulty',
       { count: 'exact' }
-    );
+    )
+    .order('id', { ascending: true });
 
   const from = (page - 1) * limit;
   const to = from + limit - 1;
@@ -62,6 +63,7 @@ export async function getSongs({
       })
       .map((element) => {
         const obj: Song = {
+          id: element.id,
           name: element.name,
           beginnerDifficulty: null,
           lightDifficulty: null,
@@ -74,7 +76,8 @@ export async function getSongs({
             element[difficulty] != levelFilter ? null : element[difficulty];
         });
         return obj;
-      });
+      })
+      .sort((a, b) => a.id - b.id);
 
     count = data?.length ?? 0;
     data = data.filter((_, index) => index >= from && index <= to);
@@ -87,6 +90,45 @@ export async function getSongs({
     pageCount,
     count,
   };
+}
+
+export async function getSong(id: number | string) {
+  const query = supabase
+    .from('sp_songs')
+    .select(
+      'id, name, beginnerDifficulty, lightDifficulty, heavyDifficulty, standardDifficulty, challengeDifficulty',
+      { count: 'exact' }
+    )
+    .eq('id', id)
+    .single();
+
+  // 在此註明型別，避免引用 API 的時候，會改成顯示 supabase 的表格定義
+  const {
+    data,
+    error,
+  }: {
+    error: PostgrestError | null;
+    data: Song | null;
+  } = await query;
+
+  return {
+    data,
+    error,
+  };
+}
+
+export async function editSong(newSong: SongFormValues, id: number | string) {
+  // 1. Create/edit cabin
+  const query = supabase.from('sp_songs').update(newSong).eq('id', id);
+
+  const { data, error } = await query.select().single();
+
+  if (error) {
+    console.error(error);
+    throw new Error('Song could not be edited');
+  }
+
+  return data;
 }
 
 export async function uploadSongs(songs: Song[]) {

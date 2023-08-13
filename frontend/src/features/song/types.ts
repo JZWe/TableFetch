@@ -26,4 +26,5 @@ export type SPDifficultyName =
   | 'lightDifficulty'
   | 'standardDifficulty';
 
-export type Song = Pick<SPRows, 'name' | SPDifficultyName>;
+export type Song = Pick<SPRows, 'id' | 'name' | SPDifficultyName>;
+export type SongFormValues = Omit<Song, 'id'>;
