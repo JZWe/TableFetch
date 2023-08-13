@@ -2,9 +2,14 @@ import { flexRender, Row } from '@tanstack/react-table';
 import Table from '../../ui/Table';
 import { useSongTable } from './SongTableContext';
 import { Song } from './types';
+import Spinner from '../../ui/Spinner';
 
 function SongBody() {
-  const { table } = useSongTable();
+  const { table, isLoading } = useSongTable();
+
+  if (isLoading) {
+    return <Spinner />;
+  }
 
   return (
     <Table.Body
