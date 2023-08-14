@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import Select from '../../ui/Select';
 
@@ -27,6 +27,13 @@ function SongSelect() {
     searchParams.set('level', e.target.value);
     setSearchParams(searchParams);
   }
+
+  useEffect(() => {
+    // 若有其他元件 ex: SearchSong, 清掉了 URL 的 level 的資訊，就 reset value
+    if (!searchParams.get('level')) {
+      setCurrentValue('all');
+    }
+  }, [searchParams]);
 
   return (
     <Select

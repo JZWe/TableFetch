@@ -5,12 +5,11 @@ import { Song, SongFormValues } from '../features/song/types';
 export async function getSongs({
   limit = 50,
   page = 1,
-  levelFilter,
+  filters,
 }: {
   limit?: number;
   page?: number;
-  sortBy?: Record<string, string>;
-  levelFilter?: number | 'all';
+  filters?: { level?: number | 'all'; name?: string | null };
 }) {
   let query = supabase
     .from('sp_songs')
@@ -23,8 +22,8 @@ export async function getSongs({
   const from = (page - 1) * limit;
   const to = from + limit - 1;
 
-  // 沒有註明 levelFilter -> 透過 supabase 執行分頁
-  if (!levelFilter || levelFilter === 'all') {
+  // 沒有等級 filter, 等級顯示全部 && 沒名字 filter  -> 透過 supabase 執行分頁
+  if (!filters?.level || (filters?.level === 'all' && !filters?.name)) {
     query = query.limit(limit).range(from, to);
   }
 
@@ -44,8 +43,9 @@ export async function getSongs({
     throw new Error('Songs not found');
   }
 
-  // 有註明 levelFilter，單純透過前端獲取所有資料並進行分頁以及等級篩選
-  if (typeof levelFilter === 'number' && Array.isArray(data)) {
+  // 有等級 filter，單純透過前端獲取所有資料並進行分頁以及等級篩選
+  // 有名稱 filter，單純透過前端獲取所有資料並進行分頁以及名稱篩選
+  if (typeof filters?.level === 'number' && Array.isArray(data)) {
     const difficulties = [
       'beginnerDifficulty',
       'lightDifficulty',
@@ -57,7 +57,7 @@ export async function getSongs({
     data = data
       .filter((element) => {
         return difficulties.some(
-          (difficulty) => element[difficulty] === levelFilter
+          (difficulty) => element[difficulty] === filters.level
         );
       })
       .map((element) => {
@@ -72,7 +72,42 @@ export async function getSongs({
         };
         difficulties.forEach((difficulty) => {
           obj[difficulty] =
-            element[difficulty] != levelFilter ? null : element[difficulty];
+            element[difficulty] != filters.level ? null : element[difficulty];
+        });
+        return obj;
+      })
+      .sort((a, b) => a.id - b.id);
+
+    count = data?.length ?? 0;
+    data = data.filter((_, index) => index >= from && index <= to);
+    pageCount = Math.ceil(count / limit);
+  } else if (typeof filters?.name === 'string' && Array.isArray(data)) {
+    const difficulties = [
+      'beginnerDifficulty',
+      'lightDifficulty',
+      'standardDifficulty',
+      'heavyDifficulty',
+      'challengeDifficulty',
+    ] as const;
+
+    data = data
+      .filter(
+        (element) =>
+          typeof element.name === 'string' &&
+          element.name?.includes(`${filters.name}`)
+      )
+      .map((element) => {
+        const obj: Song = {
+          id: element.id,
+          name: element.name,
+          beginnerDifficulty: null,
+          lightDifficulty: null,
+          standardDifficulty: null,
+          heavyDifficulty: null,
+          challengeDifficulty: null,
+        };
+        difficulties.forEach((difficulty) => {
+          obj[difficulty] = element[difficulty];
         });
         return obj;
       })
@@ -142,7 +177,7 @@ export async function deleteSong(id: number | string) {
   return data;
 }
 
-export async function uploadSongs(songs: Song[]) {
+export async function uploadSongs(newSongs: SongFormValues[]) {
   const { error: deleteError } = await supabase
     .from('sp_songs')
     .delete()
@@ -154,7 +189,7 @@ export async function uploadSongs(songs: Song[]) {
 
   const { data, error } = await supabase
     .from('sp_songs')
-    .insert(songs)
+    .insert(newSongs)
     .select();
 
   if (error) {
