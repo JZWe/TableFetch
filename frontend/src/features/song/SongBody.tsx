@@ -18,7 +18,7 @@ function SongBody() {
         return (
           <Table.Row>
             {row.getVisibleCells().map((cell) => (
-              <div key={cell.id}>
+              <div key={cell.id} style={{ minHeight: 1 }}>
                 {flexRender(cell.column.columnDef.cell, cell.getContext())}
               </div>
             ))}

@@ -8,8 +8,8 @@ import { useAuth } from '../authentication/AuthContext';
 function SongTable() {
   const { isAdmin } = useAuth();
   const columns = !isAdmin
-    ? '1fr 1fr 1fr 1fr 1fr 1fr'
-    : '1fr 1fr 1fr 1fr 1fr 1fr 25rem';
+    ? '90px 1fr 1fr 1fr 1fr 1fr'
+    : '90px 1fr 1fr 1fr 1fr 1fr 1fr';
 
   return (
     <SongTableContextProvider>
