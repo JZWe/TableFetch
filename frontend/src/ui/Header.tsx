@@ -1,13 +1,27 @@
 import styled from 'styled-components';
+import LoginModal from '../features/authentication/LoginModal';
 import Button from './Button';
 import { uploadSongs as uploadSongsApi } from '../services/apiSong';
 import {
-  Song,
   OriginalData,
   OriginalDifficultyName,
   SPDifficultyName,
+  SongFormValues,
 } from '../features/song/types';
 import { useAuth } from '../features/authentication/AuthContext';
+import { useLogout } from '../features/authentication/useLogout';
+
+// Get form value with null in fields
+const getInitialFormValues = (): SongFormValues => {
+  return {
+    name: null,
+    beginnerDifficulty: null,
+    lightDifficulty: null,
+    standardDifficulty: null,
+    heavyDifficulty: null,
+    challengeDifficulty: null,
+  };
+};
 
 const StyledHeader = styled.header`
   background-color: var(--color-grey-0);
@@ -40,32 +54,24 @@ async function handleUploadSongs() {
     });
     const originalData = (await res.json()) as OriginalData;
 
-    const tempData: Song[] = [];
+    const tempData: SongFormValues[] = [];
 
     Object.keys(originalData).forEach((songName) => {
-      const song: Song = {
-        name: '',
-        beginnerDifficulty: null,
-        lightDifficulty: null,
-        standardDifficulty: null,
-        heavyDifficulty: null,
-        challengeDifficulty: null,
-      };
-
-      song.name = songName;
+      const newSong = getInitialFormValues();
+      newSong.name = songName;
       Object.keys(originalData[songName]).forEach((difficultyName) => {
         const concatedSongDifficulty = `${difficultyName.toLowerCase()}Difficulty`;
         if (
           isMappedSongDifficulty(concatedSongDifficulty) &&
           originalData[songName][difficultyName as OriginalDifficultyName]
         ) {
-          song[concatedSongDifficulty] =
+          newSong[concatedSongDifficulty] =
             originalData[songName][
               difficultyName as OriginalDifficultyName
             ].level;
         }
       });
-      tempData.push(song);
+      tempData.push(newSong);
     });
 
     uploadSongsApi(tempData);
@@ -74,15 +80,28 @@ async function handleUploadSongs() {
   }
 }
 
+const isLocalServer = (url: string) =>
+  url.includes('localhost') || url.includes('http://127.0.0.1:5173/');
+
 function Header() {
-  const { login, logout, isAdmin } = useAuth();
+  const { logout } = useLogout();
+  const { logout: authLogout, isAdmin } = useAuth();
+  const handleLogout = () => {
+    logout(undefined, {
+      onSuccess: () => {
+        authLogout();
+      },
+    });
+  };
   return (
     <StyledHeader>
-      {!isAdmin && <Button onClick={login}>Login</Button>}
+      {!isAdmin && <LoginModal />}
       {isAdmin && (
         <>
-          <Button onClick={logout}>Logout</Button>
-          <Button onClick={handleUploadSongs}>Upload Songs</Button>
+          <Button onClick={handleLogout}>Logout</Button>
+          {isLocalServer(window.location.href) && (
+            <Button onClick={handleUploadSongs}>Upload Songs</Button>
+          )}
         </>
       )}
     </StyledHeader>
