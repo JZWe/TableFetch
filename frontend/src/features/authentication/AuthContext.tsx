@@ -11,7 +11,7 @@ const AuthContext = createContext<{
 });
 
 function AuthContextProvider({ children }: { children: JSX.Element }) {
-  const [isAdmin, setIsAdmin] = useState<boolean>(true);
+  const [isAdmin, setIsAdmin] = useState<boolean>(false);
 
   function login() {
     setIsAdmin(true);
@@ -20,6 +20,7 @@ function AuthContextProvider({ children }: { children: JSX.Element }) {
   function logout() {
     setIsAdmin(false);
   }
+
   return (
     <AuthContext.Provider value={{ isAdmin, login, logout }}>
       {children}
