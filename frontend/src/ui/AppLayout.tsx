@@ -11,8 +11,10 @@ const StyledAppLayout = styled.div`
 const Main = styled.main`
   background-color: var(--color-grey-50);
   padding: 4rem 4.8rem 6.4rem;
-  overflow: hidden;
+  overflow-x: scroll;
+  overflow-y: hidden;
   display: flex;
+  min-height: calc(100vh - 70px);
 `;
 
 const Container = styled.div`
@@ -22,6 +24,7 @@ const Container = styled.div`
   flex-direction: column;
   gap: 3.2rem;
   overflow: hidden;
+  min-width: 720px;
 `;
 
 function AppLayout() {
