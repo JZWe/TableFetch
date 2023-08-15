@@ -177,6 +177,20 @@ export async function deleteSong(id: number | string) {
   return data;
 }
 
+export async function createSong(newSong: SongFormValues) {
+  const { data, error } = await supabase
+    .from('sp_songs')
+    .insert(newSong)
+    .select();
+
+  if (error) {
+    console.error(error);
+    throw new Error('Song could not be created');
+  }
+
+  return data;
+}
+
 export async function uploadSongs(newSongs: SongFormValues[]) {
   const { error: deleteError } = await supabase
     .from('sp_songs')

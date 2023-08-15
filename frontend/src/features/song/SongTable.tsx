@@ -2,6 +2,7 @@ import Table from '../../ui/Table';
 import SongHeader from './SongHeader';
 import SongBody from './SongBody';
 import SongFooter from './SongFooter';
+import CreateSong from './CreateSong';
 import { SongTableContextProvider } from './SongTableContext';
 import { useAuth } from '../authentication/AuthContext';
 
@@ -13,11 +14,17 @@ function SongTable() {
 
   return (
     <SongTableContextProvider>
-      <Table columns={columns}>
-        <SongHeader />
-        <SongBody />
-        <SongFooter />
-      </Table>
+      <>
+        <div style={{ display: 'flex', marginLeft: 'auto' }}>
+          <CreateSong />
+        </div>
+
+        <Table columns={columns}>
+          <SongHeader />
+          <SongBody />
+          <SongFooter />
+        </Table>
+      </>
     </SongTableContextProvider>
   );
 }
