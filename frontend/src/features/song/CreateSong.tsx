@@ -15,8 +15,10 @@ function CreateSong() {
     <Modal>
       <Modal.Open opens="song-create">
         <Button>
-          <HiOutlinePlus />
-          <span>Create Song</span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 3 }}>
+            <HiOutlinePlus />
+            <span>Create Song</span>
+          </div>
         </Button>
       </Modal.Open>
       <Modal.Window name="song-create">
