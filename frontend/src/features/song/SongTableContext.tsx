@@ -123,7 +123,9 @@ function SongTableContextProvider({ children }: { children: JSX.Element }) {
 function useSongTable() {
   const context = useContext(SongTableContext);
   if (context === undefined)
-    throw new Error('DarkModeContext was used outside of DarkModeProvider');
+    throw new Error(
+      'SongTableContext was used outside of SongTableContextProvider'
+    );
   return context;
 }
 
