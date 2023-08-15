@@ -23,8 +23,8 @@ function App() {
           <Route element={<AppLayout />}>
             <Route index element={<Navigate replace to="songs" />} />
             <Route path="songs" element={<SongPage />} />
-            <Route path="*" element={<PageNotFound />} />
           </Route>
+          <Route path="*" element={<PageNotFound />} />
         </Routes>
       </BrowserRouter>
       <Toaster
