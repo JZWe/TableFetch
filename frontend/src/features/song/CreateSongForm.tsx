@@ -32,8 +32,14 @@ const getFormattedSongFormValues = (
   const result = getInitialFormValues();
   const formKeys = Object.keys(formValues) as Array<keyof typeof result>;
   formKeys.forEach((key) => {
+    // `${formValues[key]}`.trim() === ''
+    // 加這段的緣故是，使用者主動更新 field 時，該 field 值可能為空字串
+    // 若是空字串就表示使用者不想更新等級
     if (key !== 'name') {
-      result[key] = formValues[key] === null ? null : Number(formValues[key]);
+      result[key] =
+        formValues[key] === null || `${formValues[key]}`.trim() === ''
+          ? null
+          : Number(formValues[key]);
     } else {
       result[key] = formValues[key];
     }

@@ -27,16 +27,23 @@ const getInitialFormValues = (): SongFormValues => {
   };
 };
 
-const getFormValuesBySong = (song: Song) => {
+const getFormattedFormValues = (songOrFormValues: Song | SongFormValues) => {
   const result = getInitialFormValues();
-  const formKeys = Object.keys(song).filter((key) => key !== 'id') as Array<
-    keyof typeof result
-  >;
+  const formKeys = Object.keys(songOrFormValues).filter(
+    (key) => key !== 'id'
+  ) as Array<keyof typeof result>;
   formKeys.forEach((key) => {
     if (key !== 'name') {
-      result[key] = song[key] === null ? null : Number(song[key]);
+      // `${songOrFormValues[key]}`.trim() === ''
+      // 加這段的緣故是，使用者主動更新 field 時，該 field 值可能為空字串
+      // 若是空字串就表示使用者不想更新等級
+      result[key] =
+        songOrFormValues[key] === null ||
+        `${songOrFormValues[key]}`.trim() === ''
+          ? null
+          : Number(songOrFormValues[key]);
     } else {
-      result[key] = song[key];
+      result[key] = songOrFormValues[key];
     }
   });
 
@@ -64,12 +71,12 @@ export default function EditSongForm({
     // 因為 useGetSong 回傳的資料有 id，不想將 id 傳至後端，所以排除 id 欄位
 
     if (song) {
-      reset(getFormValuesBySong(song));
+      reset(getFormattedFormValues(song));
     }
   }, [song, reset]);
 
   const onSubmit: SubmitHandler<SongFormValues> = (result) => {
-    const newSong = { ...result };
+    const newSong = { ...getFormattedFormValues(result) };
     editSong(
       { newSong, id },
       {
